@@ -1,4 +1,4 @@
-# JavaScript排序
+# 排序方法JavaScript实现
 
 `npm install`使用`npm start`在浏览器中预览，在`app/index.js`中引入所有排序方法。
 
